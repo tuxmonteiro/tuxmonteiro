@@ -22,7 +22,7 @@ I'm a **Cloud Architect and System/Software Engineer** passionate about **Cloud 
 
 - **Staff Engineer** - Leadership, critical thinking, promoting an environment of continuous learning and strong business relation.
 - **Software Development** – Backend engineering, APIs, and system design.
-- **Cloud & DevOps** – Improving cloud effciency, reliability and cost (AWS, GCP and Azure)
+- **Cloud & DevOps** – Improving cloud effciency, reliability and cost (strong experience with AWS, but also involved in projects using GCP and Azure)
 - **Exploring** – New frameworks, architectures, languages, and AI-powered applications.  
 
 ## 📫 Let's Connect!  
