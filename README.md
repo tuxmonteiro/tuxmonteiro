@@ -28,4 +28,3 @@ I'm a **Cloud Architect and System/Software Engineer** passionate about **Cloud 
 ## 📫 Let's Connect!  
 
 💼 [LinkedIn](https://linkedin.com/in/marcelotmonteiro)  
-📧 marcelotmonteiro@gmail.com
