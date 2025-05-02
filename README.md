@@ -3,6 +3,9 @@
 <a href="https://linkedin.com/in/marcelotmonteiro" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>  
+ <a href="https://discord.gg/6Xffe5ph" target="_blank">
+<img src="https://img.shields.io/badge/discord-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>  
  
 
 ### 🗿 About Me  
@@ -38,3 +41,4 @@ I'm a **Cloud Architect and System/Software Engineer** passionate about **Cloud 
 ## 🤜🤛 Let's Connect!  
 
 💼 [LinkedIn](https://linkedin.com/in/marcelotmonteiro)  
+  [discord](https://discord.gg/6Xffe5ph)
