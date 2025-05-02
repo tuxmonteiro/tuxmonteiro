@@ -16,7 +16,7 @@ I'm a **Cloud Architect and System/Software Engineer** passionate about **Cloud 
 
 - **Cloud Computing**: AWS (I'm AWS Certified Solution Architect Professional and DevOps Enginner Professional) and GCP
 - **Software Engineer**: Java (raw and Spring framework), Python and Shell scripting expertise (but with experience with Clojure, Kotlin, Go, and C++)
-- **Kubernetes**: Using AWS EKS, GCP GKE, Rancher, Cillium, and more. In prehistory I used pure docker, but I'm currently a podman enthusiast.
+- **Kubernetes**: Using AWS EKS, GCP GKE, Rancher, Cilium, and more. In prehistory I used pure docker, but I'm currently a podman enthusiast.
 - **Linux** since 1999 (Red Hat Certified Engineer in 2003) and currently in a love affair with Ubuntu. Proud sysadmin and kernel compiler in spare time.
 
 ## 🎯 Projects experiences
