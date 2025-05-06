@@ -10,7 +10,7 @@
 
 ### 🗿 About Me  
 
-I'm a **Cloud Architect and System/Software Engineer** passionate about **Cloud Computing, Cybersec, SRE, PaaS, backend development, and problem-solving** 😎. Deep experience in Site Reliability Engineering (SRE) and DevSecOps, leading several critical projects.
+I'm a **Cloud Architect and System/Software Engineer** passionate about **Cloud Computing, Cybersec, PaaS, backend development, and problem-solving** 😎. Deep experience in Site Reliability Engineering (SRE) improving stability in several critical projects.
 
 ## 🛠️ Tech Stack  
 
