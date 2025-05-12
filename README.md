@@ -33,8 +33,8 @@ I love promoting an environment of critical thinking/data-driven approach, conti
 ### Stats
 
 <a href="https://github.com/tuxmonteiro">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=tuxmonteiro&hide=star,contribs&show_icons=true&theme=slateorange&include_all_commits=true&&rank_icon=percentile&number_format=long&card_width=320" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=tuxmonteiro&hide=star,contribs&show_icons=true&theme=slateorange&include_all_commits=true&rank_icon=percentile&number_format=long&card_width=320" />
 </a>
 <a href="https://github.com/tuxmonteiro">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuxmonteiro&show_icons=true&theme=slateorange&count_private=true&hide=javascript,html,PHP,c#,ruby,Makefile,Dockerfile,ocaml,groovy,css&layout=donut&card_width=320" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuxmonteiro&show_icons=true&theme=slateorange&layout=donut&count_private=true&hide=javascript,html,PHP,ruby,Makefile,Dockerfile,ocaml,groovy,css" />
 </a>
