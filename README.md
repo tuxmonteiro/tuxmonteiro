@@ -30,9 +30,11 @@ I love promoting an environment of critical thinking/data-driven approach, conti
 
 - My first graduation was Astronomy 🤓 (since I was a child I loved science and space)
 
+### Stats
+
 <a href="https://github.com/tuxmonteiro">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tuxmonteiro&hide=star,contribs&show_icons=true&theme=slateorange&include_all_commits=true&&rank_icon=percentile&number_format=long" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=tuxmonteiro&hide=star,contribs&show_icons=true&theme=slateorange&include_all_commits=true&&rank_icon=percentile&number_format=long&card_width=320" />
 </a>
 <a href="https://github.com/tuxmonteiro">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuxmonteiro&show_icons=true&theme=slateorange&count_private=true&hide=javascript,html,ruby,Makefile,Dockerfile,ocaml,groovy,css&layout=donut&card_width=320" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuxmonteiro&show_icons=true&theme=slateorange&count_private=true&hide=javascript,html,ruby,Makefile,Dockerfile,ocaml,groovy,css&layout=donut&card_width=320" />
 </a>
