@@ -11,6 +11,7 @@
 ### 🗿 About Me  
 
 I'm a **Cloud Architect** and **System/Software Engineer** passionate about **Cloud Computing, Cybersec, PaaS, backend development, and problem-solving** 😎. Deep experience in **Site Reliability Engineering (SRE)** improving several critical projects.
+I love promoting an environment of critical thinking/data-driven approach, continuous learning and strong relationships.
 
 ### 🛠️ Tech Stack
 
@@ -18,26 +19,20 @@ I'm a **Cloud Architect** and **System/Software Engineer** passionate about *
 - **Software Engineer** : Java (Functional approach, ProjectReactor and Spring framework enthusiast), Python and Shell scripting expertise (but with experience with Ruby, Clojure, Kotlin, Go, and C++). I love BDD and profilers.
 - **Kubernetes**: Using AWS EKS, GCP GKE, Rancher, Cilium, and more. In prehistory I used pure docker, but I'm currently a podman enthusiast.
 - **Linux** since 1999 (**Red Hat Certified Engineer** in 2003) and currently in a love affair with Ubuntu. Proud sysadmin and kernel compiler in spare time.
-
-### 🎯 Projects experiences
-
-- Cloud Automation with Terraform, Ansible, Pulumin. Observability using OpenTelemetry, NewRelic, Datadog, Prometheus, Grafana, and others.
-- Low level networking and Multi-layer protocols using TCP, UDP, HTTP, SSL/TLS, Rest API, WebSocket, gRPC, and RSocket
-- IaaS/PaaS Load Balancer (L4/7 Router, Reverse Proxy, CDN, API Gateway, more)
-- Data Engineering (including ETL, Avro/Parquet Data Lake management, Spark infra, more)
-- Kubernetes clusters as a Service and deployment pipeline. Deep experience with K8S Management
-- Virtualization using KVM/XEN/Vmware
-- Trading systems and stock simulator (using WebSockets and FIX protocols)
+- **SRE** - API first. Observability using open standards as OpenTelemetry. C4 model, RFC and ADR docs as the best way to discuss and record architectural design ideas and ensure that decisions and their context stand the test of time. Automation is the king (IaC with Terraform, setup with ansible, CI/CD and Universe as a code)
 
 ### ✨ What I Work On
 
-- **Help tech teams**, promoting an environment of critical thinking/data-driven approach, continuous learning and strong relationships with the business.
-- **Documentation Promoter** - Promoting C4, RFC and ADR docs as the best way to discuss and record architectural design ideas and ensure that decisions and their context stand the test of time.
-- **Software Development** – Infra as Code, Automations, Backend engineering, Network engineering, APIs, and system design.
-- **Cloud** – Improving cloud effciency, reliability and cost (strong experience with AWS, but also involved in projects using GCP and Azure)
-- **Exploring** – New frameworks, new cloud and software architectures, Blockchain ideas, Rust and Scala languages, and AI-powered solutions.
+- Learning new frameworks, new cloud and software architectures, Blockchain ideas, Rust and Scala languages, and AI-powered solutions.
+- I'm using my free time to launch a new AI-powered financial asset management platform targeting the European market.
 
-## 🤜🤛 Let's Connect!  
+### ⚡ Fun fact
 
-💼 [LinkedIn](https://linkedin.com/in/marcelotmonteiro)  
-🗣️ [discord](https://discord.gg/6Xffe5ph)
+- My first graduation was Astronomy 🤓 (since I was a child I loved science and space)
+
+<a href="https://github.com/tuxmonteiro">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tuxmonteiro&hide=star,contribs&show_icons=true&theme=slateorange&include_all_commits=true&&rank_icon=percentile&number_format=long" />
+</a>
+<a href="https://github.com/tuxmonteiro">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuxmonteiro&show_icons=true&theme=slateorange&count_private=true&hide=javascript,html,ruby,Makefile,Dockerfile,ocaml,groovy,css&layout=donut&card_width=320" />
+</a>
