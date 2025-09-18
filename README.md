@@ -23,6 +23,7 @@ I love promoting an environment of critical thinking/data-driven approach, conti
 
 - My first graduation was Astronomy 🤓
 
+<!--
 ### Stats
 
 <a href="https://github.com/tuxmonteiro">
@@ -31,3 +32,4 @@ I love promoting an environment of critical thinking/data-driven approach, conti
 <a href="https://github.com/tuxmonteiro">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuxmonteiro&show_icons=true&theme=slateorange&layout=donut&count_private=true&hide=javascript,html,PHP,ruby,Makefile,Dockerfile,ocaml,groovy,css" />
 </a>
+-->
