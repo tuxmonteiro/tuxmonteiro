@@ -12,7 +12,7 @@ I've spent years building and operating large-scale distributed systems, with a 
 
 * ☁️ **Cloud**: AWS (**AWS Certified Solutions Architect – Professional** and **DevOps Engineer – Professional**) and GCP.
 * 💻 **Software Engineering**: Java, Python, Rust, C++, Terraform HCL and Shell. I've also built production systems with Kotlin, Go, Scala, Ruby and Clojure. I believe choosing the right tool matters more than collecting languages.
-* 🤖 **AI-Assisted Development**: Teaching AI to write the boring code while I keep it away from production incidents... and my credit card statement.
+* 🤖 **AI-Assisted Development**: Constantly experimenting with AI to multiply productivity, teaching agents to write the boring code, without multiplying my API bill.
 * ☸️ **Platform Engineering**: Kubernetes (EKS, GKE, Rancher, Cilium) with a pragmatic mindset—sometimes the best Kubernetes cluster is the one you never had to create.
 * 📈 **SRE**: API-first, OpenTelemetry, Infrastructure as Code (Terraform), Ansible, CI/CD, C4 Model, ADRs and RFCs. Automation is the default, not an afterthought.
 
