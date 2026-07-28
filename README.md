@@ -1,27 +1,37 @@
 ![welcome](assets/banner2026.png)
 
+### 🗿 About Me
 
-### 🗿 About Me  
+I'm a **Cloud Architect** and **Software/System Engineer** passionate about **AI, Cloud Computing, Cybersecurity, Platform Engineering, backend development, and solving complex problems** 😎.
 
-I'm a **Cloud Architect** and **System/Software Engineer** passionate about **Cloud Computing, Cybersec, PaaS, backend development, and problem-solving** 😎. Deep experience in **Site Reliability Engineering (SRE)** improving several critical projects.
-I love promoting an environment of critical thinking/data-driven approach, continuous learning and strong relationships.
+I've spent years building and operating large-scale distributed systems, with a strong background in **Site Reliability Engineering (SRE)**. I enjoy creating environments where **critical thinking, data-driven decisions, continuous learning, and strong engineering culture** come first.
+
+---
 
 ### 🛠️ Tech Stack
 
-- **Cloud Computing**: AWS (I'm AWS Certified Solution Architect Professional and DevOps Engineer Professional) and GCP
-- **Software Engineer** : Java (Project Reactor and Spring framework enthusiast, but only where it makes sense), Terraform HCL, Python, C++ and Shell scripting expertise (I've already developed using Scala, Ruby, Clojure, Kotlin and Go, but not actively).
-- **Kubernetes**: Using AWS EKS, GCP GKE, Rancher, Cilium, and more. In prehistory I used pure docker, but I'm currently a podman enthusiast.
-- **Linux** since 1999 (**Red Hat Certified Engineer** in 2003) and currently in a love affair with Ubuntu. Proud sysadmin and kernel compiler in spare time.
-- **SRE** - API first. Observability using open standards as OpenTelemetry. C4 model, RFC and ADR docs as the best way to discuss and record architectural design ideas and ensure that decisions and their context stand the test of time. Automation is the king (IaC with Terraform, setup with ansible, CI/CD and Universe as a code)
+* ☁️ **Cloud**: AWS (**AWS Certified Solutions Architect – Professional** and **DevOps Engineer – Professional**) and GCP.
+* 💻 **Software Engineering**: Java, Python, Rust, C++, Terraform HCL and Shell. I've also built production systems with Kotlin, Go, Scala, Ruby and Clojure. I believe choosing the right tool matters more than collecting languages.
+* 🤖 **AI-Assisted Development**: Teaching AI to write the boring code while I keep it away from production incidents... and my credit card statement.
+* ☸️ **Platform Engineering**: Kubernetes (EKS, GKE, Rancher, Cilium) with a pragmatic mindset—sometimes the best Kubernetes cluster is the one you never had to create.
+* 📈 **SRE**: API-first, OpenTelemetry, Infrastructure as Code (Terraform), Ansible, CI/CD, C4 Model, ADRs and RFCs. Automation is the default, not an afterthought.
 
-### ✨ What I Work On
+---
 
-- Learning new frameworks, new cloud and software architectures, Blockchain ideas, Rust and Scala languages, and AI-powered solutions.
-- I'm using my free time to launch a new AI-powered financial asset management platform targeting the European market.
+### ✨ What I'm Working On
 
-### ⚡ Fun fact
+* Exploring new software architectures, distributed systems, AI agents, Rust, Scala, and modern cloud-native patterns.
+* Building an **AI-powered financial asset management platform** focused on the European market.
 
-- My first graduation was Astronomy 🤓
+---
+
+### ⚡ Fun Fact
+
+My first degree wasn't Computer Science...
+
+It was **Astronomy**. 🤓🌌
+
+So yes, I literally started my career by looking at the stars before moving to the cloud.
 
 <!--
 ### Stats
