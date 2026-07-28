@@ -1,4 +1,4 @@
-![welcome](assets/banner.png)
+![welcome](assets/banner2026.png)
 
 
 ### 🗿 About Me  
